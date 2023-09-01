@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/madhur3120/WeShare#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
